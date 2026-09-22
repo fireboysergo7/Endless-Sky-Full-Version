@@ -248,4 +248,4 @@ This repository serves as the official landing page for Endless Sky. The softwar
 **Get the most recent version of Endless Sky today!**
 
 ---
-**Last updated:** 2026-09-22 10:48:17 UTC
+**Last updated:** 2026-09-22 15:21:29 UTC
